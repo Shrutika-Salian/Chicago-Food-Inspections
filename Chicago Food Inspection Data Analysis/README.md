@@ -6,3 +6,6 @@
 Also, managed descripancies related to food places with null or no licenses in Licenses Database.
 
 ♦ Reported the actionable KPI's on PowerBI and Tableau to measure Foods places having violations over a period of time, Grades and scores of food places 
+
+Dimensional Model:
+<img width="892" alt="image" src="https://github.com/Shrutika-Salian/Chicago-Food-Inspections/assets/91072559/448bd6d2-cbbc-4948-a719-5d125944ef5b">
